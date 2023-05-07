@@ -1,0 +1,6 @@
+"""Write a Python program to check multiple keys exists in a dictionary"""
+dic = {'alok':1,'vivek':3,'vikas':4}
+if 'alok' in dic:
+    print(True)
+    
+#baki
